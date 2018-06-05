@@ -1,0 +1,6 @@
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorPalabras\obj\Debug\EjTelefe.BuscadorPalabras.csproj.CoreCompileInputs.cache
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorPalabras\bin\Debug\EjTelefe.BuscadorPalabras.dll
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorPalabras\bin\Debug\EjTelefe.BuscadorPalabras.pdb
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorPalabras\obj\Debug\EjTelefe.BuscadorPalabras.dll
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorPalabras\obj\Debug\EjTelefe.BuscadorPalabras.pdb
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorPalabras\obj\Debug\EjTelefe.BuscadorPalabras.csprojResolveAssemblyReference.cache

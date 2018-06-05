@@ -1,0 +1,10 @@
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.DataAccess\bin\Debug\EjTelefe.DataAccess.dll.config
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.DataAccess\bin\Debug\EjTelefe.DataAccess.dll
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.DataAccess\bin\Debug\EjTelefe.DataAccess.pdb
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.DataAccess\obj\Debug\EjTelefe.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.DataAccess\obj\Debug\EjTelefe.DataAccess.dll
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.DataAccess\obj\Debug\EjTelefe.DataAccess.pdb

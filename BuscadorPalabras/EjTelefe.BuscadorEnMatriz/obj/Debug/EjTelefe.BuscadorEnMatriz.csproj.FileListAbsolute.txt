@@ -1,0 +1,6 @@
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorEnMatriz\obj\Debug\EjTelefe.BuscadorEnMatriz.csproj.CoreCompileInputs.cache
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorEnMatriz\bin\Debug\EjTelefe.BuscadorEnMatriz.dll
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorEnMatriz\bin\Debug\EjTelefe.BuscadorEnMatriz.pdb
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorEnMatriz\obj\Debug\EjTelefe.BuscadorEnMatriz.dll
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorEnMatriz\obj\Debug\EjTelefe.BuscadorEnMatriz.pdb
+C:\Users\alancastro\source\repos\Solution1\EjTelefe.BuscadorEnMatriz\obj\Debug\EjTelefe.BuscadorEnMatriz.csprojResolveAssemblyReference.cache
